@@ -1,6 +1,6 @@
 설문 주소
 ======================
-https://answer.moaform.com/answers/Mqxa3P
+
 
 실습 url
 ======================
