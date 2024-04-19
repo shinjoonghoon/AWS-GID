@@ -4,7 +4,7 @@
 
 실습 url
 ======================
-https://catalog.us-east-1.prod.workshops.aws/join?access-code=52fd-0f0004-a1
+https://catalog.us-east-1.prod.workshops.aws/join?access-code=6a66-02c436-21
 
 개인별 실습 환경
 ======================
